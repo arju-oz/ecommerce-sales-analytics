@@ -71,8 +71,8 @@ Ecommerce-Sales-Analytics/
 
 *Raw data not included (large files) — original source: [Olist Brazilian E-Commerce Public Dataset, Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)*
 
-### Dataset Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+### Dashboard Preview
+![Dashboard Screenshot](images/E_commerce_dashboard.png)
 
 ---
 
